@@ -6,9 +6,9 @@ int main()
 
     int i;
 
-    for(i=0; i<5; i++)
+    for(i=0; i<20; i++)
     {
-        cout<<siema<<endl;
+        cout<<o_ryli<<endl;
     }
 
     cout<< Dzien dobry<< endl;
