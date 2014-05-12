@@ -6,9 +6,9 @@ int main()
 
     int i;
 
-    for(i=0; i<5; i++)
+    for(i=0; i<10; i++)
     {
-        cout<<siema<<endl;
+        cout<<elo elo co tam<<endl;
     }
 
     cout<< Dzien dobry<< endl;
